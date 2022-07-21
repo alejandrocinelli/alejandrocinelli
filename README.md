@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alejandrocinelli
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning JavaScrip - React - Html - Css - Boostrap - Tailwind
-- 💞️ I’m looking to collaborate on FreeLance 
+- 🌱 I’m currently learning JavaScrip - React Js - Html - Css - Boostrap - Tailwind 
+- 💞️ I am looking to collaborate as a freelancer to be able to continue learning
 - 📫 How to reach me alejandro.cinelli@hotmail.com 
 
 <!---
